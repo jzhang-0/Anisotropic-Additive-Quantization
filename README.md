@@ -18,7 +18,7 @@ pip install -r requirements.txt
 bash run_experiment_lastfm.sh
 ```
 
-## bib
+## Bib
 If this code can help you, please cite this work,
 ```
 @inproceedings{zhang2022anisotropic,
