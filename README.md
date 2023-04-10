@@ -13,7 +13,7 @@ You can use this code to reproduce experimental results on lastfm dataset. If yo
 pip install -r requirements.txt
 ```
 
-## Experments
+## Experiments
 ```
 bash run_experiment_lastfm.sh
 ```
